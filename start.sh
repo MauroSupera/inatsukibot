@@ -18,7 +18,7 @@ SABTCYAN='\033[1;36m'
 WHITE='\033[1;37m'
 while : 
 do
-echo "${CYAN}︎INATSU BOT - MD _ Esta script contém auto reconexão ativada para prevenção de quedas... Aproveite! <3"
-node connect.js
+echo "${CYAN}︎Inatsuki - MD 2.5 INICIANDO -_ implantado sistema de auto conexão, Aproveite!"
+node connect.js --code
 sleep 1
 done

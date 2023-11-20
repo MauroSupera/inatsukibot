@@ -10,7 +10,7 @@
     "antidoc": false,
     "antictt": false,
     "antiloc": false,
-    "antilinkgp": false,
+    "antilinkgp": true,
     "antilinkhard": false,
     "antifake": false,
     "antiporn": false,
@@ -24,7 +24,8 @@
     "listanegra": [
       "553898712699@s.whatsapp.net",
       "556798600270@s.whatsapp.net",
-      "5511959295868@s.whatsapp.net"
+      "5511959295868@s.whatsapp.net",
+      "5527981373499@s.whatsapp.net"
     ],
     "advertir": [],
     "prefixos": [
@@ -77,7 +78,7 @@
     "simi2": false,
     "autosticker": false,
     "autoresposta": false,
-    "jogos": true,
+    "jogos": false,
     "level": false,
     "bangp": false,
     "nsfw": false,

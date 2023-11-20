@@ -23,5 +23,7 @@
   "botoff": false,
   "Odelete": true,
   "welcomepv": true,
-  "figupv": true
+  "figupv": true,
+  "fundo1": "https://telegra.ph/file/2a3de9276c9318f648ebe.jpg",
+  "fundo2": "https://telegra.ph/file/b976fc58991455eae9ac2.jpg"
 }

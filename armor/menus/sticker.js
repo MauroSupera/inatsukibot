@@ -21,7 +21,6 @@ return `
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}St
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Stk
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Figu
-╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Sgif
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Rble
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Sticker
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Stickergif
@@ -37,10 +36,10 @@ return `
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Attp4
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Attp5
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Attp6
+╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Attp7
 ╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}Sfundo
+╎✰ۣۜۜ͜͡🌹 ➠ ${Prefix}qc [ me amo ]
 ┗━━━━━━━━━━━━━━━━━━━━━━`
 }
 
 exports.sticker = sticker
-
-// NÃO APAGUE ESSE ${Prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 

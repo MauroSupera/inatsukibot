@@ -2,7 +2,7 @@
   {
     "name": "Doentinhos da Cabeça 👺🤡",
     "groupId": "120363023933447665@g.us",
-    "x9": false,
+    "x9": true,
     "antiimg": false,
     "antivideo": false,
     "antiaudio": false,
@@ -17,7 +17,7 @@
     "Odelete": false,
     "antispam": false,
     "antinotas": false,
-    "anticatalogo": false,
+    "anticatalogo": true,
     "visuUnica": false,
     "registrarFIGUS": false,
     "soadm": false,
@@ -35,7 +35,8 @@
       "5511984692988@s.whatsapp.net",
       "559684340057@s.whatsapp.net",
       "5511986027804@s.whatsapp.net",
-      "5519993380018@s.whatsapp.net"
+      "5519993380018@s.whatsapp.net",
+      "558189025444@s.whatsapp.net"
     ],
     "advertir": [],
     "prefixos": [

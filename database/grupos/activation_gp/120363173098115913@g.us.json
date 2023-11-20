@@ -25,7 +25,7 @@
     "listanegra": [],
     "advertir": [],
     "prefixos": [
-      "!"
+      "#"
     ],
     "advertir2": [],
     "legenda_estrangeiro": "0",
@@ -55,9 +55,9 @@
     },
     "wellcome": [
       {
-        "bemvindo1": false,
+        "bemvindo1": true,
         "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
-        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        "legendasaiu": "Testando a legenda bê"
       },
       {
         "bemvindo2": false,
@@ -71,7 +71,7 @@
     "autoresposta": false,
     "jogos": true,
     "level": false,
-    "bangp": true,
+    "bangp": false,
     "nsfw": false,
     "aluguel": false
   }

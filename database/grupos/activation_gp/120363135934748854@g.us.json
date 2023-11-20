@@ -10,7 +10,7 @@
     "antidoc": false,
     "antictt": false,
     "antiloc": false,
-    "antilinkgp": true,
+    "antilinkgp": false,
     "antilinkhard": false,
     "antifake": false,
     "antiporn": false,
